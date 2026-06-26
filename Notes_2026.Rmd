@@ -1,10 +1,11 @@
 ---
-title: "Research Log"
+title: "Research Log & Notes"
 author: "Jérémy Genette"
-date: "Updated: `r format(Sys.Date(), '%B %d, %Y')`"
+date: "Latest Sync: `r format(Sys.Date(), '%B %d, %Y')`"
 output: 
   html_document:
-    theme: flatly
+    theme: cosmo
+    highlight: pygments
     toc: true
     toc_depth: 3
     toc_float:
