@@ -12,9 +12,26 @@ output:
       smooth_scroll: true
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
+# Trigger Git actions automatically AFTER the document is completely finished rendering
+knitr::knit_hooks$set(document = function(x) {
+  message("--- Auto-Pushing to GitHub ---")
+  try({
+    gert::git_add("Notes_2026.Rmd")
+    gert::git_commit(paste("Auto-update:", Sys.Date()))
+    gert::git_push(remote = "origin", refspec = "refs/heads/main")
+    message("--- Push Complete! ---")
+  })
+  return(x) # Return the document content safely
+})
+
+```
+
 # Research ideas
 
-- According to Hanne, Flemish still perceive phonoloogical voicing difference between g and ch, but the voicing is not to be seen in the phonetic voicing of the fricative
+- According to Hanne, Flemish still perceive phonoloogical voicing difference between g and ch, but the voicing is not to be seen in the phonetic voicing of the fricativegert::git_add(c("Notes_2026.Rmd", "docs"))
 
 # Devoicing in Belgian French 🇧🇪
 
