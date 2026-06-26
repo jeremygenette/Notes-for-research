@@ -37,7 +37,12 @@ knitr::knit_hooks$set(document = function(x) {
 
 # Devoicing in Belgian French 🇧🇪
 
-Oui, ta présentation s'est très bien passée et les commentaires d'Adèle sont juste à propos de l'environnement. Je pense que les résultats montrent qu'il y a un léger dévoisement en France, mais il est variable. 
+Oui, ta présentation s'est très bien passée et les commentaires d'Adèle sont juste à propos de l'environnement. 
+
+- position in the utterance final
+- encoding of phonological length in Belgium
+
+Je pense que les résultats montrent qu'il y a un léger dévoisement en France, mais il est variable. 
 
 A mon avis, on devrait creuser un peu plus, en utilisant ma méthode de détection de voisement + f0 et les intégrer dans le modèle.
 
