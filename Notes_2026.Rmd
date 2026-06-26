@@ -19,12 +19,13 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 knitr::knit_hooks$set(document = function(x) {
   message("--- Auto-Pushing to GitHub ---")
   try({
-    gert::git_add("Notes_2026.Rmd")
+    # Track both the source file and the compiled website file
+    gert::git_add(c("Notes_2026.Rmd", "Notes_2026.html"))
     gert::git_commit(paste("Auto-update:", Sys.Date()))
     gert::git_push(remote = "origin", refspec = "refs/heads/main")
     message("--- Push Complete! ---")
   })
-  return(x) # Return the document content safely
+  return(x) 
 })
 
 ```
