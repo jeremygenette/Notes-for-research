@@ -1,0 +1,378 @@
+---
+title: "Notes"
+author: "Jérémy Genette"
+date: "2026-06-26"
+output: html_document
+---
+
+```{r}
+git_default_branch_configure()
+use_github()
+
+```
+
+
+
+logo-kuleuven
+Faculty of Arts
+language EN keyboard_arrow_down
+Programmes
+Research
+Contact
+Support us
+Home
+Students
+Student portal @ Leuven
+Examinations and Ombuds Service
+Exams and Ombuds Service - Faculty of Arts Leuven
+General
+Plagiarism policy
+Ombuds Service
+Exam schedule
+Exam period
+Exam accommodations and exam deferral
+Rescheduling of exams as part of exchange
+Outgoing exchange students
+Incoming exchange students
+Deregistering from taking exams
+Force majeure
+Exam board
+Publication of the results
+Review of your exam results
+Internal appeal procedure
+Graduation Ceremony
+General
+1. Regulations on Education and Examinations
+The Regulations on Education and Examination describe the rights and obligations of students. Specific additions apply to our Faculty of Arts.
+
+2. What can I expect from a well-organised exam?
+What does an exam at KU Leuven look like? What can you expect? What do you have to take into account? Which accommodations are offered inclusive? On this page you will find what you can expect from a "classical" exam (this usually means a written or oral exam and thus no computer exam, take-home exam, etc.). You will read more about the structure of an exam and some do's-and-don'ts, so you can start your exam period well prepared.
+
+Plagiarism policy
+All literary arts students and researchers are proficient in original source research. They treat scientific sources with great integrity and do not commit plagiarism. Our plagiarism policy described on our website explains what plagiarism is exactly and how you can avoid it.
+
+Ombuds Service
+What does the Ombuds Service do?
+
+The Ombuds Service plays a key role in the exams process. The Ombuds Service comprises ombudspersons who act as independent mediators between examiners and students.
+
+Ombudspersons sovereignly determine whether and under what conditions a student can be granted a rescheduling (deferment) of an exam.
+
+Ombudspersons participate in the exam boards' deliberations, albeit without voting rights. Ombudspersons act as mediators if a conflict arises between a student and an examiner.
+
+Who is my ombudsperson?
+
+The ombudspersons for the academic year 2025-2026 are:
+
+BACHELOR
+
+Bachelor Archeologie: Julie Van Gorp
+Bachelor of European Studies:
+Major European Culture in a Global Context: Hannelore Heylen
+Minor Multilingualism: Hannelore Heylen
+Bachelor Geschiedenis: Tim Juwet
+Bachelor Kunstwetenschappen: Julie Van Gorp
+
+Bachelor Musicologie: Tim Juwet
+
+Bachelor Taal- en letterkunde: Hannelore Heylen
+
+Bachelor Taal- en regiostudies (Arabistiek en Islamkunde, Chinese studies en Japanse studies): Charlotte Verrydt
+
+MASTER
+
+Master Archeologie: Julie Van Gorp
+
+Master Culturele Studies (+ schakelprogramma) / Cultural Studies (+ Preparatory Programme): Hannelore Heylen
+
+Master Europese studies / European Studies: Julie Van Gorp
+
+Educatieve master in de cultuurwetenschappen: School of Education
+
+Educatieve master in de talen: School of Education
+
+Master Geschiedenis/Geschiedenis van de Oudheid  (+ voorbereidingspgrogramma's): Tim Juwet
+
+Master of History: Tim Juwet
+
+Master Kunstwetenschappen: Julie Van Gorp
+
+Master Langue et littérature françaises: Hannelore Heylen
+
+Master Linguistics and Literature: English: Hannelore Heylen
+
+Master Musicologie: Tim Juwet
+
+Master Taal- en letterkunde: Hannelore Heylen
+
+Master Taalkunde: Hannelore Heylen
+
+Master Taal- en regiostudies (Arabistiek en Islamkunde, Chinese studies en Japanse studies): Charlotte Verrydt
+
+Master Westerse literatuur: Hannelore Heylen
+
+Master Western Literature: Hannelore Heylen
+
+MANAMA
+
+Manama Advanced Studies in Linguistics: Hannelore Heylen
+Manama Estudios Ibericos y Iberoamericanos: Hannelore Heylen
+Manama Literatuurwetenschappen: Hannelore Heylen
+OTHER STUDIES
+
+Creditcontacten / Letterenacademie: Charlotte Verrydt
+
+Incoming Exchange Students: Hannelore Heylen
+
+PECS (Study Abroad Programme in European Culture and Society): Hannelore Heylen
+
+Postgraduaat Koreaanse studies: Charlotte Verrydt
+
+Postgraduaat Cultureel Erfgoed: Charlotte Verrydt
+
+
+THE OMBUDS SERVICES OF THE OTHER CAMPUSES OF THE FACULTY
+
+Antwerpen
+Brussel
+Kortrijk
+How do I contact my ombudsperson?
+
+The easiest way to reach the Ombuds Service is by e-mail. You can expect a quick response to questions that you send to that address during the revision and exam period.
+Always use your student e-mail for such contact. The ombudsperson cannot answer e-mails from a Hotmail, Gmail or other e-mail account.
+Clearly state your student number, student programme and phase.
+Word your question(s) clearly and concisely and attach the right documents, if needed.
+Only in emergencies (e.g. train with a delay, an accident, a closed room, a professor who does not show up,...) it is useful to contact the Ombuds Service by phone. This is possible during the examination period via 0470 83 82 36:
+
+standard during office hours (8.30 - 16.30): from Monday to Friday
+outside office hours: from Monday to Saturday half an hour before the start to half an hour after the end of written exams
+SMS-messages or voicemail messages are not answered.
+
+You do not need to phone if you are ill. In that case, follow the procedure under the force majeure section.
+
+Exam schedule
+Exams are planned via the Individual exam Schedule (IES) in KU Loket. Some exams are automatically scheduled here, but for other exames units you can yourself choose from a number of exam dates. In each case, you must complete your IES during the allotment period at the beginning of the semester: from the first course day of the semester until the third Wednesday. You must fill in your schedule for both semesters at the start of the academic year. At the start of the second semester, you can, if necessary, alter your schedule for the second semester.
+
+Please note that the exact start times may still change. For written exams, this is still possible up to five weeks before the start of the respective exam period. For oral exams, the starting times may also still change within the five weeks before the start of the respective exam period.
+
+The exam schedule for the third examination period will only be available in your IES later. For the academic year 2025-2026, the exam schedule for the third examination period will be announced on July 27 2026. If you want to participate in the third exam period, you have to register for it. Registration is possible as soon as your June exam results are available (July 2, 2026) until Thursday July 9, 2026and is mandatory. Students who are not registered cannot participate in the third examination period. More information can be found here.
+
+Exam period
+The examination periods of the Faculty of Arts for the academic year 2025-2026 are:
+
+first exam period: 9/01/2026 - 03/02/2026
+second examination period: 05/06/2026 - 29/06/2026
+third exam period: 14/08/2026 - 08/09/2026
+As a student of the Faculty of Arts, being available during the entire exam period is compulsory. There is always a possibility that an exam must be rescheduled in the event of force majeure. Note that the exam periods of other faculties may differ.
+
+Please note that some courses from another faculty or courses shared with another faculty (e.g. Globale uitdagingen voor een duurzame samenleving) are usually scheduled earlier than the start dates indicated above.
+
+The Faculty of Arts generally plans the catch-up exams
+
+Tuesday 03/02/2026
+Monday 29/06/2026
+Tuesday 08/09/2026
+Please note that some catch-up exams may also be organised after the exam period.
+
+Exam accommodations and exam deferral
+Where can I find an overview of inclusive exam accomodations?
+
+KU Leuven provides a number of university-wide inclusive accommodations. These measures are automatically provided for all KU Leuven students and therefore no longer need to be requested as examination accomodations. They are also no longer included on the facility certificates.
+
+Do I have a right to special exam accomodations?
+
+Students with a disability or special needs, working students, students in special individual circumstances and student with athlete status or student artist status may be entitled to receive exam accommodations from Central Services, following an application process. These accommodations range from more exam time to exam deferral. Also the student working status, student athlete status, even religion and ideological beliefs may entitle you to certain exam accommodations. There is also the possibility to reschedule an exam due to a religious holiday.
+
+How do I submit my approved exam accomodations for each exam period to the Faculty Ombuds Service?
+
+You must register the exam accomodations granted, each time prior to the examination period, via KU Loket*, specifically for each individual exam. Here you can find the guidelines for activating certified exam accommodations in KU Loket. Check only the (relevant) exam accomodations that you effectively wish to use for the exam. Exam accommodations can only be requested when you have obtained a certificate.
+
+* Students who take exams in Dutch but do not have Dutch as their mother tongue can request the use of a dictionary by sending an e-mail to the Ombuds Service in the periods mentioned below.
+
+Before which deadlines should I definitely have the exam acomodations registered for a specific exam period?
+
+for the first examination period: after the ISP deadline of the first semester up to and including 01/12/2025**;
+for the second examination period: after the ISP deadline of the second semester up to and including 01/04/2026**;
+for the third examination period: after the announcement of the results of the second examination period (02/07/2026) up to and including the registration deadline for the third examination period (09/07/2026). Afterwards, the processing by the ombuds service and the educational support services starts. This processing can take until mid-August, as the concrete exam schedule will only be online on July 27 2026.
+Examination accomodations registered late cannot be processed.
+
+** The processing of the examination facilities and possible adjustments to the examination schedule will take some time, but your schedule will be final at the latest before the start of the study period.
+
+Can I also use exam accomodations for interim tests or (interim) exams?
+
+Exam accomodations for interim tests or (interim) exams that are not included in the IES, can be requested as follows:
+
+at the latest 14 days before the exam date and no later than (and including) December 1 (1st semester) or April 1 (2nd semester):
+apply via KU Loket*. Here you can find the guidelines for activating certified exam accommodations in KU Loket. Check only the (relevant) exam accomodations that you effectively wish to use for the exam. Exam accommodations can only be requested when you have obtained a certificate
+send an email to the ombudsperson. Clearly state the subject, teacher and exam date and the facilities you want to apply for
+* Students who take exams in Dutch but do not have Dutch as their mother tongue can request the use of a dictionary by sending an e-mail to the Ombuds Service
+
+I am entitled to exam deferral within the exam period. How do I register with the Faculty Ombuds Service for each examination period?
+
+Are you entitled to exam deferral within the exam period? Enroll for an appointment. You do not have to register the exam facility ‘exam deferral’ through KU Loket. The ombuds can formalise that further after the interview.
+
+for the first examination period: from 24/11/2025 to 28/11/2025;
+for the second examination period: from 23/03/2026 to 31/03/2026;
+for the third examination period: from 27/07/2026 to 29/07/2026.
+Please have your attestation (digital) ready for the conversation. Here you can find out how to quickly consult your certificate via KU Loket.
+
+I am entitled to exam deferral outside the exam period. How is this regulated en how do I register with the Faculty Ombuds Service for each examination period?
+
+Are you entitled to exam deferral outside the exam period? Then make an appointment with your ombuds:
+
+for the first examination period: from 24/11/2025 to 28/11/2025;
+for the second examination period: from 23/03/2026 to 31/03/2026;
+for the third examination period: from 27/07/2026 to 29/07/2026.
+Please have your attestation (digital) ready for the conversation. Here you can find out how to quickly consult your certificate via KU Loket. The ombuds can check if one or more exams can be rescheduled to predetermined exam times.
+
+For academic year 2025-2026 you should consider the following dates:
+
+Catch-up dates for exams of the first exam period:
+Exam moment 1 (faculty catch-up day at 13:00): Tuesday 3 February 2026
+Exam moment 2 (evening moment at 17:00): Wednesday 11 February 2026
+Exam moment 3 (weekend moment at 9:00): Saturday 28 February 2026
+Exam moment 4 (evening moment at 17:00): Wednesday 15 April 2026
+Catch-up dates for exams of the second exam period:
+Exam moment 1 (faculty catch-up day at 13:00): Monday 29 June 2026
+Exam moment 2 (noon moment at 13:00): Wednesday 1 July 2026
+You do not have to register the exam facility ‘exam deferral’ through KU Loket. The ombuds can formalise that further after the interview.
+
+Keep these dates free where possible and ask your employer for leave in good time – if applicable.
+
+Important agreements and points for attention
+
+Do not forget that exam accomodations and exam deferral are subject to certain conditions:
+
+If you do not take part in an exam for which arrangements have been made, deregister in time for that exam in your IES and send an e-mail to the ombuds before the start of the exam.
+Come to the exam in time and register with the invigilator before the start of the exam. Always bring your certificate with you.
+If you are allowed to use reading software on the exam, make sure you can work with the programme smoothly.
+The feasibility and implementation of exam accommodations varies from faculty to faculty. The faculty responsible for organizing the course and the exam determines whether and how the requested exam accommodation will be implemented.
+You will only be granted exam deferral (within/outside the exam period) if this is stated on your certificate.
+You cannot get exam deferral for every form of evaluation. For example, deferral does not in principle apply to papers, master thesis, ... For those, you must respect the deadline determined by your lecturer or the faculty.
+Your certificate for exam deferral does not give you the right to take your exams at any time. The Faculty of Arts has determined that maximum 5 written exams can be organised per course unit per academic year. Your ombudsperson will determine how your exams can best be deferred within this framework.
+You may not invoke your right to exam deferral for exams that coincide with each other in your IES in order to take an (optional) course that you would otherwise not be able to take.
+Exams for course units that are organised by other faculties can only be deferred in consultation with the ombudsperson of those faculties (other rules may apply).
+No exam deferral is provided because of an internship. Keep that in mind when planning your internship.
+No exam deferral is provided because of a planned summer or winter school.
+If you do not take part in an exam due to a dropout and you are entitled to a deferral in the event of an outburst or dropout, you must notify the ombuds at the latest before the start of the exam. Together we will discuss the possibilities of moving the exam to a moment outside the exam period.
+Rescheduling of exams as part of exchange
+Outgoing exchange students
+My exchange overlaps with the first or second examination period. What do I do now?
+
+When you cannot take exams of the first and second exam period on the date(s) scheduled due to an (Erasmus) exchange and want to apply for an exam deferral, make an appointment with your ombuds person.
+
+For the first examination period: from 24/11/2025 to 28/11/2025
+For the second examination period: from 23/03/2026 to 31/03/2026
+The ombudsperson reviews the options within the larger picture of the other requests and makes a decision on a new exam date.
+
+You can only apply for rescheduling if you can prove that if you can prove that the courses at the place of exchange started at the time the exam is scheduled. So make sure you have that info when you contact the ombudsperson. The date of return is also important.
+
+Your exchange is organized within a particular programme stage (e.g., stage 3 of the bachelor or master). For a course that does not belong to the standard learning path of that programme stage, the ombudsperson does not provide an alternative examination date.
+
+No exam deferral is provided because of a planned summer or winter school.
+
+Please note: For courses from other faculties, an exam transfer because of an (Erasmus) exchange cannot be guaranteed.
+
+* Specific information for students "Japanse studies":
+
+Students "Japanse studies" who participated in the first examination period in the first examination opportunity of a compulsory course from the master's program and received a fail mark may apply to take resits in February if they will take the "sandwich year" in Japan starting from the second semester. They should contact the ombudsperson no later than three working days after the announcement of their examination results from the first examination period to make arrangements. Rescheduling can be requested for a maximum of two resists and is only possible for exams that cannot be taken remotely during the third examination period.
+
+My exchange overlaps with the third examination period. What do I do now?
+
+Students who have re-examinations during the third examination period prior to the year of exchange, but cannot participate in those re-examinations due to the exchange:
+
+After the announcement of the exam results of the second exam period and before the deadline to register for the re-exam period, contact the Ombuds Service stating that you will participate in the re-examinations and when your departure date is. If there is a problem with your re-examinations after the announcement of the exam schedule, make an appointment with the ombuds, from 27/07/2026 to 29/07/2026.
+You can only apply for rescheduling if you can prove that if you can prove that the courses at the place of exchange started at the time the exam is scheduled. So make sure you have that info when you contact the ombudsperson.
+An alternative examination date can only be arranged within the limits of the third examination period. Thus, an alternative examination date cannot be scheduled earlier than the start of the third exam period.
+You can only apply for rescheduling if you took the exam in the first or second exam period.
+You can apply for rescheduling for maximum two resits.
+No rescheduling is provided because of a planned summer or winter school.
+Please note: For courses from other faculties, an exam transfer because of an (Erasmus) exchange cannot be guaranteed.
+
+Incoming exchange students
+Exchange students from a non-EU partner university who have taken and failed an exam during the first or second examination period can apply for a distance retake exam. You have to contact your mobility coordinator in Leuven. If you have not participated in an exam and received the grade NA ('not taken'), no distance retake exam is possible.
+
+Please note: A distance exam cannot always be guaranteed for courses from other faculties.
+
+Exchange students from a EU partner university have to do all their exams, including the retake exams, in Leuven.
+
+Deregistering from taking exams
+If you do not intend to take an exam, the Education and Exam Regulations require that you report this in advance. You can do this via IES. This website provides you with screen shots of each step. You lose an exam opportunity this way.
+
+If you are unable to take an exam due to force majeure, please follow the procedure under the force majeure section.
+
+Force majeure
+If you have a valid reason for not attending an exam, you can submit an application to the ombudsperson to catch up on the exam later in the same exam period. Note the following guidelines:
+
+Notify the ombudsperson before the exam that you will miss is held by e-mail. You should not phone the ombudsperson on his/her personal number or via his/her mobile number. It's important to contact the ombudsperson of your study programme, even when the course you are taking the exam for is being taught at a different faculty.
+If you submit an application for a catch-up exam, support your application on the day of the exam with the evidence required. If you are ill, at least provide a medical impact certificate, so that the impact of your illness is clear. This certificate must clearly state that you are not fit enough to take the exam on the date concerned.
+The ombudsperson will decide whether/when a catch-up exam is held.
+Force majeure and written exams: In cases of force majeure (without a certificate authorizing adapted examination schedule outside of the examination period), the ombuds service may reschedule one written exam within the relevant exam period (to one of the days for catch-up examens). For multiple exams, students are referred to the third exam period. If a student misses multiple exams due to exeptional individual circumstances, they may request a certificate for adapted examination schedule outside of the examination period.
+A catch-up exam is set especially for each applicant. If you fail to attend the catch-up exam without a good reason, you will be denied this option in the future. In case of non-participation, cancellation via e-mail is mandatory.
+Exam board
+The exam board is an organisation that convenes after every exam period to determine the exam results. This exam board comprises a chairman, secretary, exam ombudsperson and several independent academic staff members.
+
+Before the exam board meeting, a select board, comprising just the chairman, the secretary and the exam ombudsperson, perform preparatory work. This select board interviews students and teachers if any irregularities are found (e.g. fraud) and fixes the exam results during a pre-deliberation.
+
+After the pre-deliberation, the entire board comes together in a deliberation to close the exam period. In addition, the exam results are fixed definitively during this deliberation. Decisions are also taken regarding deliberation for milestone courses, the determination of a penalty in the case of an irregularity, the degree distinction of graduating students, etc. In this regard, the chairman, secretary and independent academic staff members are members with voting rights and the exam ombudsperson has an advisory role.
+
+In the case of exceptional personal or family circumstances, it is important that the student reports these circumstances to the examination committee in advance through the examination ombudsperson, no later than two working days before the examination board meeting. In such cases, the examination committee may choose to deviate from the rules regarding deliberation and the use of tolerance credits in favour of the student.
+
+You can see which exam board is the exam board for your discipline here.
+
+Publication of the results
+1. Publication exam results first examination period
+
+The exam results of the first exam period will be announced on Thursday 5 February 2026 between 14.00 pm and 6.00 pm in the academic progress file on KU Loket.
+Sudy progress interviews with the study advisor are possible after the publication of the exam results.
+2. Publication examen results second examination period
+
+The exam results of the second examen period will be announced on Thursday 2 July 2026 between 14.00 pm and 6.00 pm in the academic progress file on KU Loket.
+Study progress interviews with the study advisor are possible after the publication of the exam results.
+3. Publication exam results third examination period
+
+The exam results of the third exam period will be announced on Thursday 10 September 2026 between 14.00 pm and 6.00 pm in the academic progress file on KU Loket.
+
+Study progress interviews with the study advisor are possible after the publication of the exam results.
+
+Review of your exam results
+After you have received your exam results, you will have the opportunity to get feedback from your professor(s). Feedback moments are organized in the first seven calendar days after the announcement of the results. Your professor(s) will announce their feedback moments on Toledo.
+
+For courses organized by another faculty, you can find the feedback procedure via the student portal of the relevant faculty.
+
+The feedback periods are:
+
+For the first examination period: from 6 to 12 February 2026
+For the second examination period: from 3 to 9 July 2026
+For the third examination period: from 11 to 17 September 2026
+Internal appeal procedure
+If - after the feedback - you want to appeal against the exam decision, please find more information about the procedure on this page.
+
+Graduation Ceremony
+You will find the specific dates on this website as the academic year progresses.
+
+The invitations will be sent by email to all students who may graduate.
+
+Last update: May 28, 2026
+
+Comments on the content and accessibility: Faculteit Letteren
+
+person_outline   Jérémy Genette   
+Information for current students
+Student portal Arts Leuven Campus
+Student portal Arts Antwerp Campus
+Student portal Arts Brussels Campus
+Student portal Arts Kulak Kortrijk Campus
+ 
+
+Information for staff
+Arts staff website
+My KU Leuven
+Follow us on    
+keyboard_arrow_up
+logoDisclaimerCookie SettingsPrivacy PolicyJobsFollow KU Leuven on    
+
+```{r}
+
+```
+
