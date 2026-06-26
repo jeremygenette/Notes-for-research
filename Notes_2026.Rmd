@@ -61,5 +61,10 @@ Mais on devrait regarder un peu plus avec les forêts aléatoires et peut-être 
 
 # Intrinsic Vowel Pitch 
 
-## Things to read
+# Things to read
+
+## Intrinsic vowel Pitch
 - Work Chenyu Li: separation F1-F0 for diphthongs in varieties of Chinese
+
+## Devoicing
+- Work of Adèle Jatteau
