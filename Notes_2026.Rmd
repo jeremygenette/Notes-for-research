@@ -4,7 +4,7 @@ author: "Jérémy Genette"
 date: "Latest Sync: `r format(Sys.Date(), '%B %d, %Y')`"
 output: 
   html_document:
-    theme: cosmo
+    theme: journal
     highlight: pygments
     toc: true
     toc_depth: 3
