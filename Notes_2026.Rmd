@@ -31,6 +31,21 @@ knitr::knit_hooks$set(document = function(x) {
 
 ```
 
+## To-Do
+
+### High Priority
+- [ ] Finish data cleaning
+- [ ] Update analysis script
+- [ ] Check reproducibility
+
+### Medium Priority
+- [ ] Read recent papers
+- [ ] Improve figures
+
+### Low Priority
+- [ ] Refactor code
+- [ ] Archive old results
+
 # Research ideas
 
 - According to Hanne, Flemish still perceive phonoloogical voicing difference between g and ch, but the voicing is not to be seen in the phonetic voicing of the fricative 🇧🇪
