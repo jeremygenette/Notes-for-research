@@ -63,6 +63,13 @@ Oui, ta présentation s'est très bien passée et les commentaires d'Adèle sont
 
 ## Control of phonetic context
 
+## combien de monosyllabe/bisyllabic/multi
+
+### Phrase lexicale: position relative 
+
+Prosogram - profil - noyau syllabique - Polytonia
+moins de devoisement en position forte (avec plus de voisement)
+
 - when selecting CVC syllables and only the one in coda... if we select non-word-final syllable... there is always a consonant after that
 
 Je pense que les résultats montrent qu'il y a un léger dévoisement en France, mais il est variable. 
@@ -73,7 +80,19 @@ Concernant la régression logistique, il faudrait qu'on calcule le VIF pour voir
 
 https://jalalal-tamimi.github.io/R-Stats-Linguistics-Book/8.5-issues-with-glm-and-regression-analyses-in-general.html#checking-collinearity
 
+### Boosting machines
 Mais on devrait regarder un peu plus avec les forêts aléatoires et peut-être gradient boosting machines (que j'ai utilisé pour RFP). 
+
+## cross correlation
+
+ac: intonation
+cc: voiced quality
+
+# Nasality (NAF-Chris Carrignan)
+NAF + MFCC
+
+
+
 
 
 # RFP - 1-3/07/2026
