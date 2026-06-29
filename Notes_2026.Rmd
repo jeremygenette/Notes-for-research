@@ -92,6 +92,51 @@ cc: voiced quality
 NAF + MFCC
 
 
+## RF avec données catégorielles
+
+- il faut utiliser des "one hot encoding"
+
+## Multilevelmod package
+
+pour utiliser plusieurs cores en même temps
+
+# Modèles à faire
+
+1 france + voix vs be + voix vs fr + non voix 
+
+Lieu d'articulation à ajouter
+
+Lieu de phrases (utteranc-initial vs utterance-final vs utterance-medial)
+
+# matériel à acheter
+## EGG parole 
+
+vocevista mais c'est fait seulement pour le chant 850+300
+
+egg recherche 3000 euro (glottal enterprises)
+
+## enregisteur ZOOM H6 + stereo + headmounted
+
+carte audio + focusrite
+
+casque  pour connecter au zoom
+
+Splitter pour enregistrer en stereo 
+
+si perception en lab - casque de hautes qualités
+
+## Magasin 
+Thomanns
+
+pour MAC M5
+
+stockage
+
+# rhinopharangality en lien avec le LAM
+
+Interesting for JC
+
+crosslinguistic
 
 
 
