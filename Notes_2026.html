@@ -1479,13 +1479,16 @@ font-size: 0.95em;
 <div id="high-priority" class="section level2" number="1.1">
 <h2><span class="header-section-number">1.1</span> ### High
 Priority</h2>
+<div id="medium-priority" class="section level3" number="1.1.1">
+<h3><span class="header-section-number">1.1.1</span> Medium
+Priority</h3>
+<ul>
+<li>Speak JC about this technique</li>
+</ul>
 </div>
-<div id="medium-priority" class="section level2" number="1.2">
-<h2><span class="header-section-number">1.2</span> ### Medium
-Priority</h2>
 </div>
-<div id="low-priority" class="section level2" number="1.3">
-<h2><span class="header-section-number">1.3</span> ### Low Priority</h2>
+<div id="low-priority" class="section level2" number="1.2">
+<h2><span class="header-section-number">1.2</span> ### Low Priority</h2>
 <hr />
 </div>
 </div>
@@ -1543,85 +1546,88 @@ peut-être gradient boosting machines (que j’ai utilisé pour RFP).</p>
 correlation</h2>
 <p>ac: intonation cc: voiced quality</p>
 </div>
-</div>
-<div id="nasality-naf-chris-carrignan" class="section level1" number="4">
-<h1><span class="header-section-number">4</span> Nasality (NAF-Chris
-Carrignan)</h1>
-<p>NAF + MFCC</p>
-<div id="rf-avec-données-catégorielles" class="section level2" number="4.1">
-<h2><span class="header-section-number">4.1</span> RF avec données
+<div id="rf-avec-données-catégorielles" class="section level2" number="3.4">
+<h2><span class="header-section-number">3.4</span> RF avec données
 catégorielles</h2>
 <ul>
 <li>il faut utiliser des “one hot encoding”</li>
 </ul>
 </div>
-<div id="multilevelmod-package" class="section level2" number="4.2">
-<h2><span class="header-section-number">4.2</span> Multilevelmod
+<div id="multilevelmod-package" class="section level2" number="3.5">
+<h2><span class="header-section-number">3.5</span> Multilevelmod
 package</h2>
 <p>pour utiliser plusieurs cores en même temps</p>
 </div>
-</div>
-<div id="modèles-à-faire" class="section level1" number="5">
-<h1><span class="header-section-number">5</span> Modèles à faire</h1>
+<div id="modèles-à-faire" class="section level2" number="3.6">
+<h2><span class="header-section-number">3.6</span> Modèles à faire</h2>
 <p>1 france + voix vs be + voix vs fr + non voix</p>
 <p>Lieu d’articulation à ajouter</p>
 <p>Lieu de phrases (utteranc-initial vs utterance-final vs
 utterance-medial)</p>
 </div>
-<div id="matériel-à-acheter" class="section level1" number="6">
-<h1><span class="header-section-number">6</span> matériel à acheter</h1>
-<div id="egg-parole" class="section level2" number="6.1">
-<h2><span class="header-section-number">6.1</span> EGG parole</h2>
+</div>
+<div id="matériel-à-acheter" class="section level1" number="4">
+<h1><span class="header-section-number">4</span> matériel à acheter</h1>
+<div id="egg-parole" class="section level2" number="4.1">
+<h2><span class="header-section-number">4.1</span> EGG parole</h2>
 <p>vocevista mais c’est fait seulement pour le chant 850+300</p>
 <p>egg recherche 3000 euro (glottal enterprises)</p>
 </div>
-<div id="enregisteur-zoom-h6-stereo-headmounted" class="section level2" number="6.2">
-<h2><span class="header-section-number">6.2</span> enregisteur ZOOM H6 +
+<div id="enregisteur-zoom-h6-stereo-headmounted" class="section level2" number="4.2">
+<h2><span class="header-section-number">4.2</span> enregisteur ZOOM H6 +
 stereo + headmounted</h2>
 <p>carte audio + focusrite</p>
 <p>casque pour connecter au zoom</p>
 <p>Splitter pour enregistrer en stereo</p>
 <p>si perception en lab - casque de hautes qualités</p>
 </div>
-<div id="magasin" class="section level2" number="6.3">
-<h2><span class="header-section-number">6.3</span> Magasin</h2>
+<div id="magasin" class="section level2" number="4.3">
+<h2><span class="header-section-number">4.3</span> Magasin</h2>
 <p>Thomanns</p>
 <p>pour MAC M5</p>
 <p>stockage</p>
 </div>
 </div>
-<div id="rhinopharangality-en-lien-avec-le-lam" class="section level1" number="7">
-<h1><span class="header-section-number">7</span> rhinopharangality en
-lien avec le LAM</h1>
+<div id="nasality-naf-chris-carrignan" class="section level1" number="5">
+<h1><span class="header-section-number">5</span> Nasality (NAF-Chris
+Carrignan)</h1>
+<p>NAF + MFCC</p>
+<p>rhinopharangality en lien avec le LAM</p>
 <p>Interesting for JC</p>
 <p>crosslinguistic effect</p>
 <ul>
-<li><p>Do the NAF features also capture voiceless nasals ?</p></li>
-<li><p>Will Styler PHD (<a href="https://wstyler.ucsd.edu/files/styler_dissertation_final.pdf" class="uri">https://wstyler.ucsd.edu/files/styler_dissertation_final.pdf</a>)</p>
+<li>Do the NAF features also capture voiceless nasals ? Typical features
+should not work but others well… and it’s just the idea that you work
+from bottom up approach… (compare <a href="https://www.journal-labphon.org/article/id/9152/#B47" class="uri">https://www.journal-labphon.org/article/id/9152/#B47</a>:
+instead of nasal vs oral - do nasal vs aspirates)</li>
+</ul>
+<p>We should compare</p>
+<ul>
+<li>Will Styler PHD (<a href="https://wstyler.ucsd.edu/files/styler_dissertation_final.pdf" class="uri">https://wstyler.ucsd.edu/files/styler_dissertation_final.pdf</a>)
 <ul>
 <li>Good decription of the features (<a href="https://wstyler.ucsd.edu/files/styler2017_jasa_onacousticalnatureofnasality.pdf" class="uri">https://wstyler.ucsd.edu/files/styler2017_jasa_onacousticalnatureofnasality.pdf</a>)</li>
 </ul></li>
 </ul>
 </div>
-<div id="rfp---1-3072026" class="section level1" number="8">
-<h1><span class="header-section-number">8</span> RFP - 1-3/07/2026</h1>
+<div id="rfp---1-3072026" class="section level1" number="6">
+<h1><span class="header-section-number">6</span> RFP - 1-3/07/2026</h1>
 </div>
-<div id="intrinsic-vowel-pitch" class="section level1" number="9">
-<h1><span class="header-section-number">9</span> Intrinsic Vowel
+<div id="intrinsic-vowel-pitch" class="section level1" number="7">
+<h1><span class="header-section-number">7</span> Intrinsic Vowel
 Pitch</h1>
 </div>
-<div id="things-to-read" class="section level1" number="10">
-<h1><span class="header-section-number">10</span> Things to read</h1>
-<div id="intrinsic-vowel-pitch-1" class="section level2" number="10.1">
-<h2><span class="header-section-number">10.1</span> Intrinsic vowel
+<div id="things-to-read" class="section level1" number="8">
+<h1><span class="header-section-number">8</span> Things to read</h1>
+<div id="intrinsic-vowel-pitch-1" class="section level2" number="8.1">
+<h2><span class="header-section-number">8.1</span> Intrinsic vowel
 Pitch</h2>
 <ul>
 <li>Work Chenyu Li: separation F1-F0 for diphthongs in varieties of
 Chinese</li>
 </ul>
 </div>
-<div id="devoicing" class="section level2" number="10.2">
-<h2><span class="header-section-number">10.2</span> Devoicing</h2>
+<div id="devoicing" class="section level2" number="8.2">
+<h2><span class="header-section-number">8.2</span> Devoicing</h2>
 <ul>
 <li>Work of Adèle Jatteau</li>
 </ul>
