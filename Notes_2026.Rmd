@@ -8,6 +8,7 @@ output:
     highlight: pygments
     toc: true
     toc_depth: 3
+    number_sections: true
     toc_float:
       collapsed: false
       smooth_scroll: true
