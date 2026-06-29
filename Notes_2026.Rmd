@@ -137,6 +137,7 @@ crosslinguistic effect
 - Do the NAF features also capture voiceless nasals ?
 
 - Will Styler PHD (https://wstyler.ucsd.edu/files/styler_dissertation_final.pdf)
+  - Good decription of the features (https://wstyler.ucsd.edu/files/styler2017_jasa_onacousticalnatureofnasality.pdf)
 
 
 # RFP - 1-3/07/2026
