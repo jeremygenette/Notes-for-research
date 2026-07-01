@@ -186,10 +186,12 @@ We should compare
 >
 > Ruvoletto (206)
 >
->
->
+> Morais (2020): les phonèmes n'existe pas 🤯
+> les contrainte ne sont pas définies a priori mais émèrgent du système de manière statistique
+> 
 
 -   **Keynote talk** - Ghada Khattab
+
 
 -   *Temporal Stability in Consonant+Vowel Sequences In Tashlhiyt: An Acoustic Study* - Abdelaziz Bazzi
 
