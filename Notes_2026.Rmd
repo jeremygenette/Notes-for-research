@@ -248,7 +248,13 @@ We should compare
 
 -   *Splitting Government and Licensing: Debuccalization, Vowel Epenthesis and Pseudogeminates in Forest Nenets* - Kirill Medushevsky
 
--   *Articulatory and acoustic correlates of laryngeal changes associated with [Constricted Epilaryngeal Tube] in Arabic guttural consonants* - Jalal Al-Tamimi
+    -   *Articulatory and acoustic correlates of laryngeal changes associated with [Constricted Epilaryngeal Tube] in Arabic guttural consonants* - Jalal Al-Tamimi
+
+        > gutturals are phon ology and phonotactic natural class
+        >
+        > arabics: uvulars, pharyngalized, pharyngeal, epi-laryngeal, laryngeal
+        >
+        > common phonetic feature???? F1??? coarticulation???
 
 -   *Predicting the Unpredictable: The Case of Moroccan Arabic Broken Plurals* - Ali Nirheche
 
