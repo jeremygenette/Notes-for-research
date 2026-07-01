@@ -168,15 +168,26 @@ We should compare
 
 -   *Réanalyse phonétique et phonologique du système tonal du musey* - Lora Litvinova, Albert Camus Soulokadi
 
-    > Toneme (=phonological tone) vs (phonetic) tone
+> Toneme (=phonological tone) vs (phonetic) tone
 
 -   *L'émergence de l'accent initial en français langue maternelle* - Guillaume ROUX, Germana Carolina Soler Millán
 
-> accent primaire Jun 1 Fougeron vs secondaire (Di Cristo 2000)
+> accent primaire (Jun & Fougeron) vs secondaire (Di Cristo 2000)
 >
 > développement longitudinal de l'accent initiale en français
+>
+> il appraît de manière non aléatoire
 
 -   *Quand on interroge la phonologie, c'est l'orthographe qui répond ! L'utilisation des correspondances entre syllabes orales et écrites dans une tâche phonologique* - Samantha Ruvoletto
+
+> pour e caduc Hutin 2021
+>
+> effet de régularités sous-lexicales (effet orthographe - même avec des pseudomots)
+>
+> Ruvoletto (206)
+>
+>
+>
 
 -   **Keynote talk** - Ghada Khattab
 
