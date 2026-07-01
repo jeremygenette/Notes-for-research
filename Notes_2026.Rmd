@@ -97,7 +97,7 @@ Lieu d'articulation à ajouter
 
 Lieu de phrases (utteranc-initial vs utterance-final vs utterance-medial)
 
-# matériel à acheter
+# Matériel à acheter
 
 ## EGG parole
 
@@ -142,7 +142,9 @@ We should compare
 
 # RFP - 1-3/07/2026
 
--   **Keynote talk** - Joaquim Brandao de Carvalho
+-   **Keynote talk: Of sonority, features and markedness** - Joaquim Brandao de Carvalho
+
+  - 
 
 -   *A unified licensing approach to Valencian vowel harmony* - Ricard Herrero, Jesús Jiménez, Maria-Rosa Lloret
 
