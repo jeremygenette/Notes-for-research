@@ -22,7 +22,7 @@ knitr::knit_hooks$set(document = function(x) {
   message("--- Auto-Pushing to GitHub ---")
   try({
     # Track both the source file and the compiled website file
-    gert::git_add(c("Notes_2026.Rmd", "Notes_2026.html"))
+    gert::git_add(c("Notes_2026.Rmd", "Notes_2026.html", "references.bib"))
     gert::git_commit(paste("Auto-update:", Sys.Date()))
     gert::git_push(remote = "origin", refspec = "refs/heads/main")
     message("--- Push Complete! ---")
@@ -203,10 +203,44 @@ We should compare
 > tip_delay = time (tip max) - tim(dorsum_max_rectraction)
 >
 > F2-F1: for clear vs dark difference
+>
+> cycle jaw hypothesis: anterior position articulations are sentive to position while in coda, not subject to the jaw cycle
+>
+> deeplabcut for automating the detection of contours in ultrasound
+>
+> model comparison (vertically or over time) Kirkham
+>
+> --\> coda vs onset position is not importatn for darkness in arabic... vowel contexts has a larger effect
 
 -   *Temporal Stability in Consonant+Vowel Sequences In Tashlhiyt: An Acoustic Study* - Abdelaziz Bazzi
 
+> c-center vs right edge alignment pattern (temporal stability of word-initial consonant sequences
+>
+> Tashlhiyt: any segment may occupy nucleus position
+
 -   *British Accents and Phonological Awareness in the Language Classroom: An Exploratory Study in Upper Secondary Education* - Alison May LAGARDE
+
+> chosen works 4 varieties - 4 literary
+>
+> Hagrid -west country
+>
+> -- rhoticity
+>
+> Oliver twist - Dodger/Jack Wild - Cockney
+>
+> > -- loss of post-vocalic /r/
+>
+> > --th fronting
+>
+> > --h-dropping
+>
+> glottalisation of /t/
+>
+> Erin Quinn - Derry girls for northern ireland
+>
+> rise-fall intonation contour
+>
+> Mark Renton - Trainspotting
 
 -   *The [n̩]s and outs of syllabic theory, as illustrated by the syllabic /n/ of Yiddish In* - Noam Faust, Tobias Scheer
 
