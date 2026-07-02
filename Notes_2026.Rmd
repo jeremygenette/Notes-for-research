@@ -32,23 +32,14 @@ knitr::knit_hooks$set(document = function(x) {
 
 ```
 
-# To-Do
+# Liste de choses à faire
 
-## \### High Priority
-
-### Medium Priority
-
--   Speak JC about this technique
-
-## \### Low Priority
-
-------------------------------------------------------------------------
-
-# Research ideas
+# Idées de recherche pour le futur
 
 -   According to Hanne, Flemish still perceive phonoloogical voicing difference between g and ch, but the voicing is not to be seen in the phonetic voicing of the fricative 🇧🇪
 
-# Devoicing in Belgian French 🇧🇪
+# Notes pour projets de recherche actuels
+## Devoicing in Belgian French 🇧🇪
 
 Oui, ta présentation s'est très bien passée et les commentaires d'Adèle sont juste à propos de l'environnement.
 
@@ -97,31 +88,7 @@ Lieu d'articulation à ajouter
 
 Lieu de phrases (utteranc-initial vs utterance-final vs utterance-medial)
 
-# Matériel à acheter
 
-## EGG parole
-
-vocevista mais c'est fait seulement pour le chant 850+300
-
-egg recherche 3000 euro (glottal enterprises)
-
-## enregisteur ZOOM H6 + stereo + headmounted
-
-carte audio + focusrite
-
-casque pour connecter au zoom
-
-Splitter pour enregistrer en stereo
-
-si perception en lab - casque de hautes qualités
-
-## Magasin
-
-Thomanns
-
-pour MAC M5
-
-stockage
 
 # Nasality (NAF-Chris Carrignan)
 
@@ -140,7 +107,10 @@ We should compare
 -   Will Styler PHD (<https://wstyler.ucsd.edu/files/styler_dissertation_final.pdf>)
     -   Good decription of the features (<https://wstyler.ucsd.edu/files/styler2017_jasa_onacousticalnatureofnasality.pdf>)
 
-# RFP - 1-3/07/2026
+# Notes de conférences
+
+## BKL2026 
+## RFP - 1-3/07/2026
 
 -   **Keynote talk: Of sonority, features and markedness** - Joaquim Brandao de Carvalho
 
@@ -260,7 +230,20 @@ We should compare
 
 -   *Strict domination in probabilistic phonology* - Giorgio Magri, Edward Flemming
 
--   **Keynote talk** - Pierre-Yves Testenoire
+-   **Keynote talk** - Pierre-Yves Testenoire - Jakobson
+
+
+> Pendant la période américaine, jakobson écrit ses cours en français parce qu'il n'a plus l'habitude de donner cours en français
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
 
 -   *Phonemic overlapping in structuralist phonology* - Stefano Canalis
 
@@ -332,9 +315,9 @@ We should compare
 #source("publish.R")
 ```
 
-# Intrinsic Vowel Pitch
+## Intrinsic Vowel Pitch
 
-# Things to read
+# Littérature à lire
 
 ## Intrinsic vowel Pitch
 
@@ -343,3 +326,29 @@ We should compare
 ## Devoicing
 
 -   Work of Adèle Jatteau
+
+# Ressources - matériel - librairies
+
+## EGG parole
+
+vocevista mais c'est fait seulement pour le chant 850+300
+
+egg recherche 3000 euro (glottal enterprises)
+
+## enregisteur ZOOM H6 + stereo + headmounted
+
+carte audio + focusrite
+
+casque pour connecter au zoom
+
+Splitter pour enregistrer en stereo
+
+si perception en lab - casque de hautes qualités
+
+## Magasin
+
+Thomanns
+
+pour MAC M5
+
+stockage
